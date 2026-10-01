@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "repoVersion": "2025.10.01",
+  "games": [
+    {
+      "appid": 123456,
+      "name": "Example Game",
+      "iconUrl": "https://example.com/icon.png",
+      "description": "Short description shown in the UI.",
+      "releaseYear": 2024,
+      "tags": ["Action", "RPG"],
+      "depots": [
+        {
+          "depotId": 123456,
+          "manifestId": "7890123456789012345",
+          "sizeBytes": 1234567890,
+          "language": "english",
+          "os": "windows"
+        }
+      ]
+    }
+  ]
+}
